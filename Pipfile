@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 googletrans = "4.0.0-rc1"
+deepface = "*"
+tf-keras = "*"
 
 [scripts]
 test = "../bin/pipenv"
